@@ -15,6 +15,3 @@ list.jsx: Página que muestra la lista de mascotas.
 src/store: Contiene la configuración de la tienda Redux.
 index.js: Configura y exporta la tienda Redux.
 src/App.jsx: Componente principal de la aplicación.
-public/index.html: Página HTML principal de la aplicación.
-package.json: Define las dependencias del proyecto y los scripts de npm.
-README.md: Este archivo, que proporciona una descripción general del proyecto y su estructura.
