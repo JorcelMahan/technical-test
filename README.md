@@ -15,3 +15,15 @@ list.jsx: Página que muestra la lista de mascotas.
 src/store: Contiene la configuración de la tienda Redux.
 index.js: Configura y exporta la tienda Redux.
 src/App.jsx: Componente principal de la aplicación.
+
+Para correr el proyecto en tu entorno local, sigue estos pasos:
+
+Clona el repositorio en tu máquina local.
+
+Navega hasta el directorio del proyecto.
+
+Instala las dependencias del proyecto con npm. Ejecuta el siguiente comando en la terminal:
+
+Una vez que todas las dependencias estén instaladas, puedes iniciar el servidor de desarrollo ejecutando:
+Abre tu navegador y visita http://localhost:5000 (o el puerto que tu consola te indique) para ver la aplicación en funcionamiento.
+Recuerda que debes tener Node.js y npm instalados en tu máquina para poder seguir estos pasos.
