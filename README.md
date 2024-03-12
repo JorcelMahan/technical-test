@@ -24,6 +24,11 @@ Navega hasta el directorio del proyecto.
 
 Instala las dependencias del proyecto con npm. Ejecuta el siguiente comando en la terminal:
 
+npm install
+
 Una vez que todas las dependencias estén instaladas, puedes iniciar el servidor de desarrollo ejecutando:
+
+npm run dev
+
 Abre tu navegador y visita http://localhost:5000 (o el puerto que tu consola te indique) para ver la aplicación en funcionamiento.
 Recuerda que debes tener Node.js y npm instalados en tu máquina para poder seguir estos pasos.
